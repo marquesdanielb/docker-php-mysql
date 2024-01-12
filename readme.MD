@@ -1,5 +1,5 @@
 # Ambiente de Desenvolvimento com Docker
-Este repositório fornece um ambiente de desenvolvimento php simples e fácil de usar usando Docker. Ele inclui um serviço Apache com php 8.0, um serviço MySQL e um serviço Adminer para gerenciar o banco de dados. Abaixo estão os detalhes e instruções para começar.
+Este repositório fornece um ambiente de desenvolvimento php simples e fácil de manipular e administrar usando Docker. Ele inclui um serviço Apache com php 8.0, um serviço MySQL e um serviço Adminer para gerenciar o banco de dados. Abaixo estão os detalhes e instruções para começar.
 
 | Pré-requisitos: :rotating_light:                                               | 
 | ------------------------------------------------------------------------------ | 
